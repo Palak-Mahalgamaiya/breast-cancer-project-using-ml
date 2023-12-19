@@ -14,7 +14,9 @@ Through this project we determine whether a person can have a Breast Cancer   or
 
 
 CONTENT
+
 Attribute
+
 Feature	Description
 1.	Radius	mean of distances from the center to points on the perimeter
 2.	Texture	standard deviation of grey-scale values
