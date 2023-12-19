@@ -30,4 +30,5 @@ Feature	Description
 10.	Fractal dimension	“coastline approximation”
 
 TOOLS USED
+
 I have used pandas, numpy,Matplotlib and NumPy for data analysis and manipulation.
