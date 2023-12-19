@@ -1,6 +1,5 @@
 # breast-cancer-project-using-ml
 A brief description of what this project does and who it's for
-
 Breast Cancer Detection
 INTRODUCION
 
